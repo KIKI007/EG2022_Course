@@ -19,3 +19,4 @@ Contents
    scope
    outline
    presenter
+   bibo
