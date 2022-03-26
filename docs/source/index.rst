@@ -1,5 +1,5 @@
 EG2022 Course: Computational Assemblies
-===================================
+========================================
 
 .. image:: img/teaser.png
    :alt: alternate text
