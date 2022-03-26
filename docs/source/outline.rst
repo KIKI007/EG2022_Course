@@ -1,0 +1,4 @@
+Outline
+=======
+
+.. _outline:

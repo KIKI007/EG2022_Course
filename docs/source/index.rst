@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
+EG2022 Course: Computational Assemblies
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. image:: img/teaser.png
+   :alt: alternate text
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Assemblies are ubiquitous in our daily life, such as toys, electronic devices, furniture, and architecture. They enable to build large and complex objects by composing small yet simpler parts, facilitating fabrication, storage, maintenance, and usage. However, designing assemblies is a highly non-trivial task because one needs to consider not only the properties of each individual components, but also of the whole assembly, such as aesthetics and stability. Motivated by recent advancements in digital fabrication, various computational techniques have been developed to analyze, design, and fabricate assemblies, aiming to enable general users to easily personalize them. This tutorial will give an introduction to these computational techniques, focusing on four fundamental aspects, i.e., parts fabricability, parts joining, assembly planning, and structural stability. In this tutorial, we will take a deep dive into computational methods to analyze these aspects for a given assembly as well as to design and fabricate assemblies that satisfy user-specified requirements in these aspects. This tutorial assumes knowledge of the fundamentals of computer graphics. Attendees should come away from this tutorial with a broad understanding of current work in computational assemblies, as well as familiarity with the necessary knowledge to start their own research in this area.
 
 .. note::
 
-   This project is under active development.
+   Our presentation date is coming soon.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   intro
+   scope
+   outline
+   presenter
