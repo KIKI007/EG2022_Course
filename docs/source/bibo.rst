@@ -1,7 +1,0 @@
-Bibliography
-=============
-
-.. _bibo:
-
-
-.. bibliography::
